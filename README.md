@@ -9,7 +9,8 @@ https://github.com/SharePoint/sp-dev-docs/wiki
 
 https://www.youtube.com/watch?v=uewOxEnw2_A
 
-* Two services must be up and running for spfx.
+* Three services must be up and running for spfx.
 1. App Management Service
 2. Microsoft SharePoint Foundation Subscription Settings Service
+3. State Services
 
