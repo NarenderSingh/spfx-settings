@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=uewOxEnw2_A
 2. Microsoft SharePoint Foundation Subscription Settings Service
 3. State Services
 
+# SharePoint Framework roadmap
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties
